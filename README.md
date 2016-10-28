@@ -1,0 +1,2 @@
+# zixun
+provide for android
